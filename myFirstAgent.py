@@ -52,4 +52,4 @@ def my_pdf_loader(path_to_file):
 
 if __name__ == "__main__":
     #my_first_chain()
-    my_pdf_loader("./guide-de-pratique-dépression-2015.pdf")
+    my_pdf_loader("guide-de-pratique-dépression-2015.pdf")
